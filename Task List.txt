@@ -1,35 +1,35 @@
-1) jkono ekta navigation bar
+1) jkono ekta navigation bar✔
 
-2) website er name
+2) website er name✔
 
 3) no lorem ipsum
 
-4) minimum 6 course information
+4) minimum 6 course information✔
 
 optional:
-5) learning institue section
-6) successful student
-7) student feedback
+5) learning institue section✔
+6) successful student✔
+7) student feedback✔
 
 
-8) FAQ - Accordion(minimum 4 optional)
-9) footer minimum 4 ta link
+8) FAQ - Accordion(minimum 4 optional)✔
+9) footer minimum 4 ta link✔
 
 make responsive
-10) collapse navbar
-11) small font(optional) , see more course
-12) large screen 2 ta course pashapashi 
-13) medium screen 1 ta course
-14) normal mobile view each course er image and description upor nicha.
+10) collapse navbar✔
+11) small font(optional) , see more course✔
+12) large screen 2 ta course pashapashi ✔
+13) medium screen 1 ta course✔
+14) normal mobile view each course er image and description upor nicha.✔
 
 Bonus
-15) Ready to join section thakta hobal.
-16) register now button click korla modal ashba.
-17) answer 4 question in FAQ 
-    difference between flexbox and grid
-    difference between Bootstrap and Tailwind
-    what is css box model
-    what is semantic tag
-18) Trusted company only desktop a dekhata hoba
-19) minimum 6 ta github commit
+15) Ready to join section thakta hoba.✔
+16) register now button click korla modal ashba.✔
+17) answer 4 question in FAQ ✔
+    difference between flexbox and grid✔
+    difference between Bootstrap and Tailwind✔
+    what is css box model✔
+    what is semantic tag✔
+18) Trusted company only desktop a dekhata hoba✔
+19) minimum 6 ta github commit✔
 20)
