@@ -10,6 +10,8 @@ optional:
 5) learning institue section
 6) successful student
 7) student feedback
+
+
 8) FAQ - Accordion(minimum 4 optional)
 9) footer minimum 4 ta link
 

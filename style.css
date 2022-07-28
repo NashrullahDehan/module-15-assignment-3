@@ -1,5 +1,9 @@
 /* my stylesheet */
 
 .transparent-black{
-    background: rgba(83, 77, 77, 0.295);
+    background: #00000097;
+}
+
+.working-man-bg{
+    background: #F4FAFD;
 }
