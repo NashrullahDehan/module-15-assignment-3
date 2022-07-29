@@ -2,7 +2,7 @@
 
 2) website er name✔
 
-3) no lorem ipsum
+3) no lorem ipsum✔
 
 4) minimum 6 course information✔
 
